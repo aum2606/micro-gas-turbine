@@ -56,14 +56,14 @@ The dataset consists of time-series data collected from a micro gas turbine and 
 
 ## Project Structure
 
-   ├── data/ # Contains raw data files 
-   ├── models/ # Stores trained models 
-   ├── plots/ # Generated visualizations (e.g., loss curves, prediction plots) 
-   ├── README.md # Project documentation 
-   ├── preprocess.py # Data preprocessing script 
-   ├── train_baseline.py # Script to train the baseline model 
-   ├── train_kgl.py # Script to train the knowledge-guided model 
-   ├── utils.py # Utility functions for evaluation and visualization
+   ─ data/ # Contains raw data files 
+   ─ models/ # Stores trained models 
+   ─ plots/ # Generated visualizations (e.g., loss curves, prediction plots) 
+   ─ README.md # Project documentation 
+   ─ preprocess.py # Data preprocessing script 
+   ─ train_baseline.py # Script to train the baseline model 
+   ─ train_kgl.py # Script to train the knowledge-guided model 
+   ─ utils.py # Utility functions for evaluation and visualization
 
 ## Requirements
 
