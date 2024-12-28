@@ -56,7 +56,7 @@ The dataset consists of time-series data collected from a micro gas turbine and 
 
 ## Project Structure
 
-## ├── data/ # Contains raw data files 
+   ├── data/ # Contains raw data files 
    ├── models/ # Stores trained models 
    ├── plots/ # Generated visualizations (e.g., loss curves, prediction plots) 
    ├── README.md # Project documentation 
